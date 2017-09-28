@@ -1,0 +1,10 @@
+{
+    "introduction": {
+        "text" : "Beste kandidaat. Welkom bij dit voorbeeld.",
+        "title": "Example",
+        "test sound": "Geluidstest",
+        "continue" : "Ga verder",
+        "yes": "Ja",
+        "no" : "Nee"
+    }
+}
